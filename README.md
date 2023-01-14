@@ -1,4 +1,4 @@
-<p align="center">
+<p align=”center”>
 
 ![githubLogo](https://user-images.githubusercontent.com/105226707/212465966-e8e6825a-09ab-4a09-939b-f3721f2ce887.png)
 
@@ -9,7 +9,13 @@
 ## I work with Javascript (React JS, express JS) and have profesional working experience as a frond end developer. 
 ## Alongside programming I also make prototypes with figma.
 
+<hr/>
 
+## Contact Me:
+
+<a href = "mailto: tamrakarshubham23@gmail.com">
+<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" alt="email"/>
+</a>
 
 
 
