@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-tam&layout=compact&theme=tokyonight)](https://github.com/shubham-tam/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubham-tam&repo=2048-game)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubham-tam&repo=2048-game)](https://github.com/shubham-tam/2048-game)
