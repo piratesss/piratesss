@@ -13,9 +13,7 @@
 
 ## Contact Me:
 
-<a href = "mailto: tamrakarshubham23@gmail.com">  
   ![image]({[BadgeURLHere](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)})
-</a>
 
 
 
