@@ -16,6 +16,15 @@
   <a href = "mailto: tamrakarshubham23@gmail.com">
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
   </a>
+  
+    <a href = "https://www.linkedin.com/in/shubham-tamrakar-790b03228/">
+    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
+  </a>
+  
+  
+  <br/>
+  <br/>
+  
 
 
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-tam&hide=stars&theme=tokyonight&show_icons=true)](https://github.com/shubham-tam/github-readme-stats)
