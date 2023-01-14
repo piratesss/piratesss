@@ -30,9 +30,7 @@
    <a href = "https://medium.com/@tamrakarshubham23">
     <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' />
   </a>
-  
-  
-  
+   
 <hr/>
   
   ## Tech Stacks:
@@ -45,15 +43,10 @@
    <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
    <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' />
    
-   
-   
-   
+  <hr/>
    
   <br/>
-  <br/>
-  
-
-
+ 
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-tam&hide=stars&theme=tokyonight&show_icons=true)](https://github.com/shubham-tam/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-tam&layout=compact&theme=tokyonight)](https://github.com/shubham-tam/github-readme-stats)
