@@ -1,10 +1,4 @@
- <p align=”center”>
-
-<img  width=”200" height=”200" src=”![githubLogo](https://user-images.githubusercontent.com/105226707/212465966-e8e6825a-09ab-4a09-939b-f3721f2ce887.png)
-" alt=”my banner”>
-
-</p>
-
+![githubLogo](https://user-images.githubusercontent.com/105226707/212465966-e8e6825a-09ab-4a09-939b-f3721f2ce887.png)
 
 
 
