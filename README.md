@@ -12,9 +12,10 @@
 <hr/>
 
 ## Contact Me:
-  
-  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
 
+  <a href = "mailto: tamrakarshubham23@gmail.com">
+    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
+  </a>
 
 
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-tam&hide=stars&theme=tokyonight&show_icons=true)](https://github.com/shubham-tam/github-readme-stats)
