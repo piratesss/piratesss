@@ -2,7 +2,7 @@
 
 ![githubLogo](https://user-images.githubusercontent.com/105226707/212465966-e8e6825a-09ab-4a09-939b-f3721f2ce887.png)
 
-</>
+</p>
 
 ### Hello, I'm Shubham and a web developer and a designer. 
 
