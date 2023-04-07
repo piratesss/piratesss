@@ -6,7 +6,7 @@
 
 ### Hello, I'm Shubham and a web developer and a designer. 
 
-## I work with Javascript (React JS, express JS) and have professional working experience as a frond end developer. 
+## I work with Javascript (ReactJS, ExpressJS) and have professional working experience as a frond end developer. 
 ## Alongside programming I also make prototypes with figma.
 
 <hr/>
