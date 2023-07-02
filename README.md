@@ -36,7 +36,7 @@
   ## Tech Stacks:
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,redux,react,sass,tailwind,styledcomponents,&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,redux,react,sass,tailwind,styledcomponents,postman,&perline=5" />
   </a>
 </p>
 <p align="center">
