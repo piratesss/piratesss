@@ -4,10 +4,10 @@
 
 </p>
 
-### Hello, I'm Shubham and a web developer and a designer. 
+### Hello, I'm Shubham a web developer and a designer. 
 
-## I work with Javascript (ReactJS) and have professional working experience as a frond end developer. 
-## Alongside programming I also make prototypes with figma.
+## I work with Javascript (ReactJS) and have professional experience as a front-end developer. 
+## Alongside programming I also make prototypes with Figma.
 
 <hr/>
 
