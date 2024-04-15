@@ -4,6 +4,10 @@
 
 </p>
 
+<div align="center">
+<img width="500" alt="logo" src=`${![githubLogo](https://user-images.githubusercontent.com/105226707/212465966-e8e6825a-09ab-4a09-939b-f3721f2ce887.png)}>
+</div>
+
 ### Hello, I'm Shubham a web developer and a designer. 
 
 ## I work with Javascript (ReactJS) and have professional experience as a front-end developer. 
