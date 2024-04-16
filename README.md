@@ -42,7 +42,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,ps" />
+    <img src="https://skillicons.dev/icons?i=figma,ps" />
   </a>
 </p>
   <hr/>
