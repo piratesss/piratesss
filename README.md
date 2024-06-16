@@ -7,8 +7,7 @@
 
 ### Hello, I'm Shubham a web developer and a designer. 
 
-## I work with Javascript (ReactJS) and have professional experience as a front-end developer. 
-## Alongside programming I also make prototypes with Figma.
+## Experienced software engineer who specializes in the front end development, comfortable with ReactJS, NextJS and expressJS.
 
 <hr/>
 
